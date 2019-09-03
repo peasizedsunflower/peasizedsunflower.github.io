@@ -124,7 +124,7 @@ figure{
     height: 100%;
 }
 #fixed{
-    background-image: url("img/sunflowerbgc22.png");
+    background-image: url("sunflowerbgc22.png");
     filter: blur(3px);
     /* -webkit-filter: blur(3px); */
     position: fixed;
